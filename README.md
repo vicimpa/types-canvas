@@ -1,0 +1,1 @@
+# Typescript definations for canvas npm module
