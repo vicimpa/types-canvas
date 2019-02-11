@@ -1,0 +1,7 @@
+{
+  "name": "@types/canvas",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@types/node": "^10.12.24"
+  }
+}
